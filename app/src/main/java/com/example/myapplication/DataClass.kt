@@ -14,7 +14,11 @@ fun main(){
 
     //fungsi equals
     val data2 = DataClass(1, "rara@gmail.com")
-    println(dara == data2)//false
+    println(data == data2)//false
+
+    //fungsi copy
+    val data3 =  data.copy()
+    println(data3)
 
 
 }
