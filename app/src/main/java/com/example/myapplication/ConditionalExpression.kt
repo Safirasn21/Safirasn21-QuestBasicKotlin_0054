@@ -66,5 +66,5 @@ fun perulangan() {
 
 fun main(){
     ConditionalStatement()
-    Perulangan()
+    perulangan()
 }
