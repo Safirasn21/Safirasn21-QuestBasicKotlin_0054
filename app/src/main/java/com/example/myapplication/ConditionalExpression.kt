@@ -11,6 +11,7 @@ fun ConditionalStatement(){
     if (number > 0){
         println("positive number")
     }
-
-
+    else {
+        println("negative number")
+    }
 }
