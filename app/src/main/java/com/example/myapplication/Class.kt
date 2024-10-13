@@ -13,4 +13,7 @@ fun main() {
     //mengupdate value email
     contact.email = "jane@gmail.com"
 
+    //menampilkan hasil update email
+    println(contact.email)
+
 }
