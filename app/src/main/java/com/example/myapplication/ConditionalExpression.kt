@@ -25,5 +25,6 @@ fun ConditionalStatement(){
         5 -> println("Thursday")
         6 -> println("Friday")
         7 -> println("Saturday")
+        else -> println ("Invalid Day")
     }
 }
