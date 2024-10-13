@@ -12,4 +12,9 @@ fun main(){
     val data = DataClass(1, "safira@gmail.com")
     println(data)
 
+    //fungsi equals
+    val data2 = DataClass(1, "rara@gmail.com")
+    println(dara == data2)//false
+
+
 }
