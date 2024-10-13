@@ -9,4 +9,8 @@ fun main() {
 
     //menampilkan value email
     println(contact.email)
+
+    //mengupdate value email
+    contact.email = "jane@gmail.com"
+
 }
